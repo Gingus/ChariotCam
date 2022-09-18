@@ -4,6 +4,8 @@
 # Source code from the official PiCamera package
 # http://picamera.readthedocs.io/en/latest/recipes2.html#web-streaming
 
+# To log in via browser http://192.168.16.103:8000/index.html
+
 import io
 import picamera
 import logging
